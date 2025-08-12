@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 02c978286c9fdc74285548c49549cc3b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SoundSourcePrefab: {fileID: 4831327277326327075, guid: 1eb2a9f96ca0bad43ab382fc32ae81ea,
+      type: 3}
+  - RolloffSoundSourcePrefab: {fileID: 8980151980536723067, guid: 0e8c4d12185ac3743a02b708a55a26a9,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

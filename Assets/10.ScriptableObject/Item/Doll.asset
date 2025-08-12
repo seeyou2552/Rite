@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97d15a819fdad14994edc83342107ad, type: 3}
+  m_Name: Doll
+  m_EditorClassIdentifier: 
+  itemName: Doll
+  type: 1
+  icon: {fileID: 21300000, guid: f038945dde08ccb4d9016cd9647cccb1, type: 3}
+  prefab: {fileID: 6941856176452585714, guid: 7b3c6f0c07888f247a3c06300569921b, type: 3}
+  description: "\uB358\uC838!"
+  isConsumable: 1
